@@ -8,7 +8,7 @@
    docs/2 迷你智能乌龟车安装和接线.md
    docs/1.Makecode 教程/Makecode 教程.md
    docs/2. Python 教程/Python 教程.md
-   docs/index
+   docs/FAQ.md
    docs/index
    docs/index
    docs/index
